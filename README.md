@@ -1,13 +1,13 @@
-# Curso React Avançado
+# PROJETO: E-COMMERCE GAMES
 
-Este repositório contém o material e as instruções para o curso [React Avançado](https://www.udemy.com/course/react-avancado/) disponível na Udemy.
+## TECNOLOGIAS:  React, Next, Storybook, GraphQL, Testing library, Jest, Cypress e Strapi.
 
-### O que é ensinado no curso
+### O que é abordado no projeto
 
 - Melhores práticas para estruturar projetos React em grande escala.
-- Aprofundar-se em Hooks e Context API.
+- Hooks e Context API.
 - Gerenciamento de estado avançado com Redux e Redux Saga.
-- Construir aplicações com performance otimizada.
+- Performance otimizada.
 - Testar seus componentes e aplicações com Jest e Testing Library.
 - Integração com APIs e manipulação de dados assíncronos.
 - Next.js para renderização do lado do servidor e geração de sites estáticos.
@@ -18,8 +18,8 @@ Este repositório contém o material e as instruções para o curso [React Avan�
 1. **Clone este repositório**
 
     ```bash
-    git clone https://github.com/Vulquimar-Silva/boilerplate-apps-router
-    cd boilerplate-apps-router
+    git clone https://github.com/Vulquimar-Silva/e-commerce-games.git
+    cd e-commerce-games
     ```
 
 2. **Instale as dependências**
