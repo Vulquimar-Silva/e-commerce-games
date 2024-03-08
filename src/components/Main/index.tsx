@@ -1,10 +1,10 @@
-import React from 'react'
+import * as S from './styles'
 
 const Main = () => {
   return (
-    <main>
+    <S.Wrapper>
       <h1>react avançado</h1>
-    </main>
+    </S.Wrapper>
   )
 }
 
